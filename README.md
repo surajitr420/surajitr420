@@ -3,7 +3,7 @@
 🎓 B.Tech in Computer Science & Engineering  
 💼 Passionate about full-stack development, AI/ML, and software engineering.  
 🌱 Currently learning advanced backend systems and building real-world projects.  
-📫 Email me: [surajit4765@gmail.com](mailto:surajit4765@gmail.com)  
+📫 Email me: [surojitr420@gmail.com](mailto:surojitr420@gmail.com)  
 🌐 Portfolio: [surajit-roy.com](https://surajit-roy.com)
 
 ---
